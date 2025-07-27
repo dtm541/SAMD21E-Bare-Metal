@@ -13,7 +13,7 @@
           "architecture": "samd",
           "version": "1.8.14",
           "category": "Contributed",
-          "url": "C:/Users/DM/Documents/Projects/SAMD21/BareMetal/samd21e_bare_metal.zip",
+          "url": "https://github.com/dtm541/SAMD21E-Bare-Metal/blob/main/samd21e_bare_metal.zip",
           "archiveFileName": "samd21e_bare_metal.zip",
           "checksum": "SHA-256:8d786b2ac7f5f3e905c07b44b3c8d2e98d452f7c81a2c5ddfd69f43d6ccadf15",
           "size": "4691388",
