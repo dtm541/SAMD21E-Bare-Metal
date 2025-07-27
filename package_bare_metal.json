@@ -1,0 +1,60 @@
+{
+  "packages":
+  [
+    {
+      "name": "bare metal",
+      "maintainer": "Grant Messinger",
+      "websiteURL": "http://www.yahoo.com",
+      "email" : "dmessinger@sky.com",
+      "platforms":
+      [
+        {
+          "name": "SAMD21E Bare Metal",
+          "architecture": "samd",
+          "version": "1.8.14",
+          "category": "Contributed",
+          "url": "C:/Users/DM/Documents/Projects/SAMD21/BareMetal/samd21e_bare_metal.zip",
+          "archiveFileName": "samd21e_bare_metal.zip",
+          "checksum": "SHA-256:8d786b2ac7f5f3e905c07b44b3c8d2e98d452f7c81a2c5ddfd69f43d6ccadf15",
+          "size": "4691388",
+          "boards": [
+            {
+              "name": "SAMD21E Bare Metal"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
