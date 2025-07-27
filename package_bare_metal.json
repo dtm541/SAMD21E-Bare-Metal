@@ -2,7 +2,7 @@
   "packages":
   [
     {
-      "name": "bare metal",
+      "name": "baremetal",
       "maintainer": "D Messinger",
       "websiteURL": "http://www.yahoo.com",
       "email" : "dmessinger@sky.com",
@@ -15,8 +15,8 @@
           "category": "Contributed",
           "url": "https://github.com/dtm541/SAMD21E-Bare-Metal/raw/refs/heads/main/samd21e_bare_metal.zip",
           "archiveFileName": "samd21e_bare_metal.zip",
-          "checksum": "SHA-256:01e78055e34b30973ca0b74c430771510b02f8b7e8564c73b25fef3627c57eef",
-          "size": "4697808",
+          "checksum": "SHA-256:6021ef8d4733861385d8005e90a0ef4178cb76995d2355595be09cf496db082f",
+          "size": "4697740",
           "boards": [
             {
               "name": "SAMD21E Bare Metal"
