@@ -15,7 +15,7 @@
           "category": "Contributed",
           "url": "https://github.com/dtm541/SAMD21E-Bare-Metal/raw/refs/heads/main/samd21e_bare_metal.zip",
           "archiveFileName": "samd21e_bare_metal.zip",
-          "checksum": "SHA-256:6b334d125236fb1a65cd35009094688ab334b8e447eb98a1b82a15cae9b4eb29",
+          "checksum": "SHA-256:78d2260d672c7d20deb60c6ef944a76c859043ccf30cd85dcd76b69413214e6b",
           "size": "4719268",
           "boards": [
             {
