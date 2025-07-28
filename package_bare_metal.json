@@ -3,9 +3,9 @@
   [
     {
       "name": "baremetal",
-      "maintainer": "D Messinger",
-      "websiteURL": "http://www.yahoo.com",
-      "email" : "dmessinger@sky.com",
+      "maintainer": "GEM Studios",
+      "websiteURL": "https://github.com/dtm541/SAMD21E-Bare-Metal",
+      "email" : "",
       "platforms":
       [
         {
